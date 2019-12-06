@@ -1,5 +1,10 @@
 # idea
 .idea/
+
+#/*.txt
+
+/*.txt
+
 # Logs
 logs
 *.log
